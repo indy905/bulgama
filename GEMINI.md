@@ -39,10 +39,12 @@
     - 수정이 필요한 부분을 지적하고, 최종 폴리싱된 완성본을 제시합니다.
 3.  **파일 저장 및 업데이트:**
     - 최종본을 `chatpers/` 폴더에 새 파일로 저장합니다.
+    - 초안은 사용자의 허가 없이 저장합니다.
     - `progress.md`의 타임라인과 캐릭터 상태를 최신화합니다.
+    - 조연 캐릭터가 등장하면 `story_bible/02_01_Supporting_Characters.md`에 추가하거나 내용을 업데이트합니다.
 
 ### 4.2. 설정 관리 및 일관성
-- 새로운 에피소드 제안 시 `story_bible/02_Worldbuilding_and_Characters.md`와 충돌 여부를 확인하십시오.
+- 새로운 에피소드 제안 시 `story_bible/02_Worldbuilding_and_Characters.md`, `story_bible/02_01_Supporting_Characters.md`와 충돌 여부를 확인하십시오.
 - `03_Plot_and_Structure.md` 및 각 막별 상세 파일(`03_01_Act_1.md` 등)을 참고하여 현재 위치와 전개 방향을 항상 파악하십시오.
 
 ### 4.3. 아이디어 생성
